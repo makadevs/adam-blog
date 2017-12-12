@@ -22,7 +22,7 @@
     width: 100%;
     padding: 15px;
     border: none;
-    border-bottom: 1px solid $lighten-gray;
+    border-bottom: 0px solid $lighten-gray;
     outline: none;
     font-size: 21px;
     color: $dark-gray;
@@ -38,7 +38,7 @@
   li {
     padding-bottom: 15px;
     margin-bottom: 15px;
-    border-bottom: 1px solid $lighten-gray;
+    border-bottom: 0px solid $lighten-gray;
 
     a {
       text-decoration: none;
